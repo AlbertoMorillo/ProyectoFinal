@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoFinalAndroid</string>
+    <string name="adUnitId">ca-app-pub-7471257120320751/8674936224</string>
+    <string name="fbapp_id">147883569048576</string>
+
+    <string name="loginstateSucces">Inicio de sesión exitoso!</string>
+    <string name="loginstateError">Error al inicar sesión</string>
+    <string name="loginstateCancel">Inicio de sesión cancelada</string>
+</resources>
